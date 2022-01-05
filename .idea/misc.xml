@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable/bolist.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable/bovien.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable/bovien1.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable/doc.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable/loa.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable/tatam.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable/ttrangchu.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable/vientext.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/drawable/voluemoff.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/chitietdongvat.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/chude.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/dongco.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/duoinuoc.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/itemdv.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/ketthuc.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/kiemtrabe.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/loaikhac.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/longvu.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/thunuoi.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/thurung.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/dongvatquanhta/app/src/main/res/layout/tongket.xml" value="0.12771739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

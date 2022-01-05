@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hinhnen2"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvCauhoi"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/bovien"
+        android:gravity="center"
+        android:text="Đâu là con mèo?"
+        android:textColor="#15288F"
+        android:textSize="35sp" />
+
+    <TableLayout
+        android:layout_width="400dp"
+        android:layout_height="350dp"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <TableRow
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/dapanA"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/bovien"
+                android:onClick="OnClick"
+                android:scaleType="fitXY"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/dapanB"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/bovien"
+                android:onClick="OnClick"
+                android:scaleType="fitXY"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/dapanC"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/bovien"
+                android:onClick="OnClick"
+                android:scaleType="fitXY"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/dapanD"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/bovien"
+                android:onClick="OnClick"
+                android:scaleType="fitXY"
+                tools:ignore="SpeakableTextPresentCheck" />
+        </TableRow>
+    </TableLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/imgtiengkeu"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/bovien1"
+            android:src="@drawable/loa"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/imgdoc"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/bovien1"
+            android:src="@drawable/doc"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/imgtrangchu"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/bovien1"
+            android:src="@drawable/ttrangchu"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+    </LinearLayout>
+</LinearLayout>
